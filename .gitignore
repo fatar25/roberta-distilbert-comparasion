@@ -1,0 +1,31 @@
+# 1. Kredensial & Keamanan (SANGAT PENTING)
+kaggle.json
+*.env
+.env
+
+# 2. Dataset & File Mentah (Ukuran Raksasa)
+data/
+*.csv
+*.zip
+*.tar.gz
+
+# 3. Model Deep Learning & Checkpoints
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+
+# 4. Jupyter Notebook & IDE Caches
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# 5. Python Caches & Virtual Environment
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
