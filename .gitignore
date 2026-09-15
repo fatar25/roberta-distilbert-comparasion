@@ -8,6 +8,7 @@ data/
 *.csv
 *.zip
 *.tar.gz
+*.dill
 
 # 3. Model Deep Learning & Checkpoints
 models/
